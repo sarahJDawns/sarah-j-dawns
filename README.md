@@ -36,7 +36,6 @@ I like to build things that help solve problems.
 ![Express]
 ![Bootstrap]
 ![TailwindCSS]
-![WordPress]
 
 [html]: https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [css]: https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -47,4 +46,3 @@ I like to build things that help solve problems.
 [express]: https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white
 [bootstrap]: https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
 [tailwindcss]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
-[wordpress]: https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
