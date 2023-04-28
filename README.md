@@ -4,8 +4,8 @@
 
 <br>
 
-<h3 align="center">Hi, I'm Sarah</h3>
-
+<h2 align="center">Hi, I'm Sarah</h2>
+<br>
   <p align="center">
     Your next software developer.
     <br />
