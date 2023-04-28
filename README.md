@@ -1,7 +1,8 @@
 <br />
 <div align="center">
     <img src="images/BackgroundSunset.png" alt="Logo" width="100%" height="10">
-
+<br>
+<br>
 <br>
 
 <h2 align="center">Hi, I'm Sarah</h2>
