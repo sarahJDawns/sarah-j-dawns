@@ -40,6 +40,7 @@ I like to build things and help solve problems.
 ![Express]
 ![Bootstrap]
 ![TailwindCSS]
+![Eleventy]
 ![WordPress]
 ![Webflow]
 ![Figma]
@@ -53,6 +54,7 @@ I like to build things and help solve problems.
 [express]: https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white
 [bootstrap]: https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
 [tailwindcss]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+[eleventy]: https://img.shields.io/badge/eleventy-000000?style=for-the-badge&logo=eleventy&logoColor=white
 [wordpress]: https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
 [webflow]: https://img.shields.io/badge/webflow-4353ff?style=for-the-badge&logo=webflow&logoColor=white
 [figma]: https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white
