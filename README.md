@@ -12,7 +12,7 @@
 </div>
 
 <h3 align="center">
-I like to build things and help solve problems.
+I like to make things and help solve problems.
 </h3>
 
 <img src="images/BackgroundSunset.png" alt="Logo" width="100%" height="5">
