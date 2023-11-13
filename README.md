@@ -1,12 +1,12 @@
 # Hi, I'm Sarah
 
-Your next software developer.
+#### Your next software developer
 
-### I like to make things and help solve problems.
+#### I like to make things and help solve problems
 
 ---
 
-## Technologies I've been working with recently
+### Technologies I've been working with recently:
 
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
